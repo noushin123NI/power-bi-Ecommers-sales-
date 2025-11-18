@@ -76,11 +76,5 @@ Here’s a breakdown of the main report pages or tabs:
 * If embedding: embed URL or instructions, if relevant.
 * If exporting: how to export or distribute reports (PDF, PowerPoint, etc.)
 
-## Contributors / Contact
 
-* **Owner / Creator**: [Your Name]
-* **Email**: [Your Email]
-* **Team Members**: [Names, Roles]
-
----
 
